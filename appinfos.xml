@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apps>
+    <!--<app>
+        <app_name>YYDRobotVoiceMainService</app_name>
+        <package_name>com.yongyida.robot.voice</package_name>
+        <version_code>30</version_code>
+        <version_name>2.0.7</version_name>
+    </app>
+    <app>
+        <app_name>YYDRobotFloatButton</app_name>
+        <package_name>com.yongyida.robot.floatbutton</package_name>
+        <version_code>5</version_code>
+        <version_name>2.0.7</version_name>
+        <url>http://120.24.242.163/robot_apps/y50b_dev/YYDRobotFloatButton/YYDRobotFloatButton.apk</url>
+    </app>-->
+    <app>
+        <app_name>YYDRobotVoiceBattery</app_name>
+        <package_name>com.yongyida.robot.voice.battery</package_name>
+        <version_code>2</version_code>
+        <version_name>2.0.2</version_name>
+        <url>http://120.24.242.163/robot_apps/y50b_dev/YYDRobotVoiceBattery/YYDRobotVoiceBattery.apk</url>
+    </app>
+    <!--<app>
+        <app_name>YYDRobotLauncher2</app_name>
+        <package_name>com.yongyida.robot.launcher2</package_name>
+        <version_code>2</version_code>
+        <version_name>2.0.4</version_name>
+        <url>http://120.24.242.163/robot_apps/y50b_dev/YYDRobotLauncher2/YYDRobotLauncher2.apk</url>
+    </app>-->
+</apps>
